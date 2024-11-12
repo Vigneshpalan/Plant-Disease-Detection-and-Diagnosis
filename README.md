@@ -1,6 +1,6 @@
 # Plant Disease Detection System
 
-![Plant Disease Detection]
+
 
 ## Project Overview
 This project focuses on building an automated system that identifies plant diseases from images and provides a detailed diagnosis using a Deep Learning model. The system combines image classification with Natural Language Processing (NLP) to offer expert-level explanations of the identified diseases, helping farmers manage crop health and reduce losses effectively.
@@ -18,7 +18,7 @@ This project focuses on building an automated system that identifies plant disea
 
 ## Project Architecture
 
-![Architecture Diagram]()
+
 
 The system consists of several key components:
 1. **Data Collection and Preprocessing:** Images are gathered and preprocessed to ensure quality training data.
@@ -26,31 +26,11 @@ The system consists of several key components:
 3. **NLP Integration:** An NLP model generates detailed descriptions of each diagnosed disease.
 4. **User Interface Development:** The final model is deployed with an intuitive user interface for easy access.
 
-## Installation
-
-To set up the project locally, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/plant-disease-detection.git
-    cd plant-disease-detection
-    ```
-
-2. Create and activate a virtual environment:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate   # On Windows: venv\Scripts\activate
-    ```
-
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 
 ## Sample Predictions
 
-![Healthy Plant]()
+![Healthy Plant](https://github.com/Vigneshpalan/Plant-Disease-Detection-and-Diagnosis/blob/main/Screenshot%202024-10-21%20215207.png)
 *Figure 1: Healthy Plant*
 
 ![Diseased Plant](https://github.com/Vigneshpalan/Plant-Disease-Detection-and-Diagnosis/blob/main/Screenshot%202024-10-21%20215129.png)
