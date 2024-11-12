@@ -53,7 +53,7 @@ To set up the project locally, follow these steps:
 ![Healthy Plant]()
 *Figure 1: Healthy Plant*
 
-![Diseased Plant]()
+![Diseased Plant](https://github.com/Vigneshpalan/Plant-Disease-Detection-and-Diagnosis/blob/main/Screenshot%202024-10-21%20215129.png)
 *Figure 2: Diseased Plant Identified*
 
 
